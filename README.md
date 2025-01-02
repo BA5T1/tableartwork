@@ -9,9 +9,9 @@ How does it work?
 1) create new table-texture with table_preview_template.png
 2) place this your-texture.png in /Textures
 3) edit "newtables.csv" matching your new texture:
-   - name: tablename
-   - manufactor: e.g. Williamns 1977
-   - image: your-texture (without extension)
+   - name: e.g. Terminator 2
+   - manufactor: e.g. Williams 1977
+   - image: your-texture (filename without path and extension)
    - dmd: 1 or 0 (dmd/solidstate)
 5) in blender open script-tab
 6) execute script (play icon)
