@@ -20,5 +20,3 @@ New rendered [tablename][manufactor].png will be stored in /RenderedImages
 
 > [!NOTE]
 > You can add multiple tables at once.
-
-name	display	manufactor	needed	forbidden	image	dmd
