@@ -7,8 +7,10 @@ you don't need any blender skills
 How does it work?
 
 1) create new table-texture with table_preview_template.png
-2) place this texture.png in /Textures
-3) edit "newtables.csv" matching new texture / set dmd 1 or 0
+2) place this your-texture.png in /Textures
+3) edit "newtables.csv" matching your new texture:
+   - your-texture (without extension)
+   - set dmd 1 or 0 (dmd/solidstate)
 4) in blender open script-tab
 5) execute script (play icon)
 
