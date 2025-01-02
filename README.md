@@ -13,6 +13,7 @@ How does it work?
    - manufactor: e.g. Williams 1977
    - image: your-texture (filename without path and extension)
    - dmd: 1 or 0 (dmd/solidstate)
+   - other fields are ignored (leave them empty)
 5) in blender open script-tab
 6) execute script (play icon)
 
