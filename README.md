@@ -1,10 +1,15 @@
 # Tableartwork
-blender renders previewtable from texture.png
+blender renders previewtable from texture.png<br>
 you don't need any blender skills
+
+<table><tr><td><img src="https://github.com/BA5T1/tableartwork/blob/main/table_preview_template.png" alt="" width="300"></td><td><img src="https://github.com/user-attachments/assets/0b3650be-43ee-4de6-9dbd-9af9bf176c76" alt="" width="300"></td></tr></table>
+
+
 
 ![Pirates_Life_Original_2024](https://github.com/user-attachments/assets/f491e20f-9c20-414a-876b-b10cfcd3f8a9)
 
-How does it work?
+
+How does it work?!
 
 1) create new table-texture with table_preview_template.png
 2) place this your-texture.png in /Textures
