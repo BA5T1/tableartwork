@@ -9,12 +9,16 @@ How does it work?
 1) create new table-texture with table_preview_template.png
 2) place this your-texture.png in /Textures
 3) edit "newtables.csv" matching your new texture:
-   - your-texture (without extension)
-   - set dmd 1 or 0 (dmd/solidstate)
-4) in blender open script-tab
-5) execute script (play icon)
+   - name: tablename
+   - manufactor: e.g. Williamns 1977
+   - image: your-texture (without extension)
+   - dmd: 1 or 0 (dmd/solidstate)
+5) in blender open script-tab
+6) execute script (play icon)
 
 New rendered [tablename][manufactor].png will be stored in /RenderedImages
 
 > [!NOTE]
 > You can add multiple tables at once.
+
+name	display	manufactor	needed	forbidden	image	dmd
