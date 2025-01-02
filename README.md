@@ -14,7 +14,7 @@ How does it work?
 4) in blender open script-tab
 5) execute script (play icon)
 
-New rendered table.png will be stored in /RenderedImages
+New rendered [tablename][manufator][year].png will be stored in /RenderedImages
 
 > [!NOTE]
 > You can add multiple tables at once.
