@@ -16,6 +16,7 @@ How does it work?!
 OR
 
 1b) export artwork with VPX-Launcher
+
 <img width="400" alt="Screenshot_2026-06-17_153933 png" src="https://github.com/user-attachments/assets/ea1c52cb-d9d9-4a0b-87cb-daca2bdec18c" />
 
 
