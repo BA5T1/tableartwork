@@ -11,7 +11,9 @@ you don't need any blender skills
 
 How does it work?!
 
-1) create new table-texture with table_preview_template.png
+1a) create new table-texture with table_preview_template.png
+OR
+1b) export artwork with 
 2) place this your-texture.png in /Textures
 3) edit "newtables.csv" matching your new texture:
    - name: e.g. Terminator 2
@@ -19,8 +21,9 @@ How does it work?!
    - image: your-texture (filename without path and extension)
    - dmd: 1 or 0 (dmd/solidstate)
    - other fields are ignored (leave them empty)
-5) in blender open script-tab
-6) execute script (play icon)
+5) install blender (once)
+6) open blender file / in blender open script-tab
+7) execute script (play icon)
 
 New rendered "[tablename] [manufactor].png" will be stored in /RenderedImages
 
