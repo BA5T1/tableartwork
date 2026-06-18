@@ -22,7 +22,7 @@ OR
 <img width="400" alt="Screenshot_2026-06-17_153933 png" src="https://github.com/user-attachments/assets/ea1c52cb-d9d9-4a0b-87cb-daca2bdec18c" />
 
 
-2) place this your-texture.png in /Textures
+2) place your-texture.png in /Textures
 3) edit "newtables.csv" matching your new texture:
    - name: e.g. Terminator 2
    - manufactor: e.g. Williams 1977
