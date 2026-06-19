@@ -22,18 +22,12 @@ OR
 <img width="400" alt="Screenshot_2026-06-17_153933 png" src="https://github.com/user-attachments/assets/ea1c52cb-d9d9-4a0b-87cb-daca2bdec18c" />
 
 
-2) place your-texture.png in /Textures
-3) edit "newtables.csv" matching your new texture:
-   - name: e.g. Terminator 2
-   - manufactor: e.g. Williams 1977
-   - image: your-texture (filename without path and extension)
-   - dmd: 1 or 0 (dmd/solidstate)
-   - other fields are ignored (leave them empty)
-5) install blender (once)
-6) open blender file / in blender open script-tab
-7) execute script (play icon)
+2) place 'tablename (manufactorer year)_dmd1.png' or 'tablename (manufactorer year)_dmd0.png' in /Textures
+2) install blender (once)
+3) open blender file / in blender open script-tab
+7) execute script (play icon) ... wait it will come back ;)
 
-New rendered "[tablename] [manufactor].png" will be stored in /RenderedImages
+New rendered "tablename[without _dmdx].png" will be stored in /RenderedImages
 
 > [!NOTE]
 > You can add multiple tables at once.
